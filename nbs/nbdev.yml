@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_langchain"
+  site-url: "https://AviPeltz.github.io/nbdev_langchain"
+  description: "A sample of how to play with langchain using nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/AviPeltz/nbdev_langchain"
